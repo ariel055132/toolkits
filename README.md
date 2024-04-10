@@ -8,6 +8,9 @@
 * Firefox / Edge (Web surfing)
 * Postman (API Testing)
 * SourceTree / Github Desktop (Pushing codes/bugs, Making commits)
+* Typora (Markdown editor)
+* Obsidian / Notion (Notes Taking)
+* Dash (API Documents)
 
 ## Java 
 * Intellij IDEA 
@@ -29,3 +32,7 @@
 * Markdown Preview Mermaid Support (Vscode)
 * WSL / WSL2 (Vscode)
 * Docker (all)
+
+## Planning Tools
+* DB diagram
+* draw.io
