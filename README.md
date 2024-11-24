@@ -1,38 +1,53 @@
 # Toolkits
-* It is about the toolkits I used daily.
 
 ## General Purpose
-* Visual Studio Code / NotePad++ (Reading csv, editing text files, simple web)
-* Slack / Line (communication software)
-* Outlook (Checking and replying emails)
-* Firefox / Edge (Web surfing)
-* Postman (API Testing)
-* SourceTree / Github Desktop (Pushing codes/bugs, Making commits)
-* Typora (Markdown editor)
-* Obsidian / Notion (Notes Taking)
-* Dash (API Documents)
+1. Visual Studio Code / NotePad++ 
+   * Reading csv
+   * Editing text files
+2. Slack / Line 
+   * Communication 
+3. Outlook 
+   * Checking and replying emails
+4. Firefox 
+   * Web Browser
+5. Postman 
+   * API Testing
+6. SourceTree 
+   * Pushing codes/bugs
+   * Making commits
+   * Cherry Pick
+7. Typora 
+   * Markdown editor
 
 ## Java 
 * Intellij IDEA 
 
 ## Python 
-* Pycharm (General development)
-* DataSpell / Jupyter (Data Science, NLP)
+1. Pycharm 
+  * General Development
+2. DataSpell / Jupyter 
+  * Data Science, NLP
 
 ## Database 
-* DataGrip (Use it more often)
+* DataGrip 
 * DBWeaver
+* Oracle SQL Developer
 
 ## Extensions and themes
-* One Dark Pro (all)
-* Github Copilot (Jetbrains product)
-* ChatGPT 4 / 3.5 (all)
-* Leetcode extensions (intellij)
-* Rainbow csv (Vscode)
-* Markdown Preview Mermaid Support (Vscode)
-* WSL / WSL2 (Vscode)
-* Docker (all)
+1. One Dark Pro (all)
+2. Github Copilot (all)
+3. ChatGPT 4 / 3.5 (all)
+4. Leetcode extensions (intellij)
+5. Rainbow csv (Vscode)
+6. Markdown Preview Mermaid Support (Vscode)
+7. WSL / WSL2 (Vscode)
+7. Docker (all)
 
 ## Planning Tools
 * DB diagram
 * draw.io
+* XMind 8
+
+## Intellij Settings
+1. Remove Unused Import 
+  * File -> Settings -> Editor -> General -> Auto Import -> Optimize Imports On the Fly
