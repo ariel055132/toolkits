@@ -1,37 +1,35 @@
 # Toolkits
 
-## General Purpose
-1. Visual Studio Code / NotePad++ 
-   * Reading csv
-   * Editing text files
-2. Slack / Line 
-   * Communication 
-3. Outlook 
-   * Checking and replying emails
-4. Firefox 
-   * Web Browser
-5. Postman 
-   * API Testing
-6. SourceTree 
-   * Pushing codes/bugs
-   * Making commits
-   * Cherry Pick
-7. Typora 
-   * Markdown editor
+## Hardware
+1. ThinkPad x1c 6th gen (windows 11, work)
+2. M2 Macbook air (macOS, free)
+
+## x1c
+1. VSCode + NotePad++ + Sublime text (Notepad)
+2. Slack + Line (communication)
+3. Outlook (mail)
+4. Firefox (web)
+5. Postman + Hoppscotch (API Test)
+6. Sourcetree (Code commit)
+
+## Mac
+1. VSCode + Sublime text (Notepad)
+2. Hoppscotch
+3. Firefox + Arc
+4. iterm2
+5. homebrew
 
 ## Java 
 * Intellij IDEA 
 
 ## Python 
-1. Pycharm 
+1. Pycharm / VSCode
   * General Development
-2. DataSpell / Jupyter 
-  * Data Science, NLP
 
 ## Database 
-* DataGrip 
-* DBWeaver
-* Oracle SQL Developer
+* DataGrip (x1c + mac)
+* DBWeaver (x1c)
+* Oracle SQL Developer (x1c)
 
 ## Extensions and themes
 1. One Dark Pro (all)
@@ -40,7 +38,6 @@
 4. Leetcode extensions (intellij)
 5. Rainbow csv (Vscode)
 6. Markdown Preview Mermaid Support (Vscode)
-7. WSL / WSL2 (Vscode)
 7. Docker (all)
 
 ## Planning Tools
@@ -51,3 +48,10 @@
 ## Intellij Settings
 1. Remove Unused Import 
   * File -> Settings -> Editor -> General -> Auto Import -> Optimize Imports On the Fly
+
+## Others
+* Input Source Pro
+* AppCleaner
+* RayCast
+* CleanShot X
+* KeyCastr
